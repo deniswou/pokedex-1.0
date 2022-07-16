@@ -2,6 +2,8 @@
 Pokedex in Javascript vanilla & fetch
 Easy way to use [PokéApi](http://pokeapi.co/) 
 
+Live Page: https://thisismypokedex.netlify.app/
+
 
 
 
